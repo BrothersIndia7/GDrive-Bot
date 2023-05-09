@@ -1,14 +1,14 @@
 import os
 
 class config:
-    BOT_TOKEN = 5566522376:AAEmHewJm6mnZ8h2phoDxYkO5q3cLPiI4-o
+    BOT_TOKEN = "5566522376:AAEmHewJm6mnZ8h2phoDxYkO5q3cLPiI4-o"
     APP_ID = 3105621
     API_HASH = "67bcf6738409491f95bd75834589817d"
     DATABASE_URL = "postgres://zlmuwvvbrajmdr:40a4f6fbe6ae6e822d3778755392eb4187ba265136bf927669841b82d0927c81@ec2-52-205-171-232.compute-1.amazonaws.com:5432/d4urljk92jukgm"
     SUDO_USERS = "754495556" # Sepearted by space.
     SUPPORT_CHAT_LINK = "@hxbots"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "84741382606-kaq6birebin29vfkevc7k4aehjd1j2h2.apps.googleusercontent.com
+    G_DRIVE_CLIENT_ID = "84741382606-kaq6birebin29vfkevc7k4aehjd1j2h2.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "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"
 
 
