@@ -4,7 +4,7 @@ class config:
     BOT_TOKEN = "5566522376:AAEmHewJm6mnZ8h2phoDxYkO5q3cLPiI4-o"
     APP_ID = 3105621
     API_HASH = "67bcf6738409491f95bd75834589817d"
-    DATABASE_URL = "postgres://zlmuwvvbrajmdr:40a4f6fbe6ae6e822d3778755392eb4187ba265136bf927669841b82d0927c81@ec2-52-205-171-232.compute-1.amazonaws.com:5432/d4urljk92jukgm"
+    DATABASE_URL = "postgres://oypowzkoysqewk:0151a89b9cc3a2f12c0dde309e0b17b9fd37a9c89d5fa5b624557cb61383758d@ec2-52-20-78-241.compute-1.amazonaws.com:5432/dc1tagbemdk947"
     SUDO_USERS = "754495556" # Sepearted by space.
     SUPPORT_CHAT_LINK = "@hxbots"
     DOWNLOAD_DIRECTORY = "./downloads/"
